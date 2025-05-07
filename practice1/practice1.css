@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    color: brown;
+    text-transform: capitalize;
+}
+.navv{
+    background-color:pink;
+    border: dotted 5px yellow;
+}
+.padabout{
+    padding-left: 80%;
+    padding-bottom: 10px;
+}
+.padcontact{
+    padding-left : 5%;
+}
+.formm{
+    width: 40%;
+    border: solid;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}

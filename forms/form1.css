@@ -1,0 +1,15 @@
+h2{
+    text-align: center;
+    text-transform: capitalize;
+    border: groove red;
+    
+}
+form{
+    width: 50%;
+    margin-left: 100px;
+    padding-left : 100px;
+    padding-top: 30px;
+    text-align : left;
+    text-transform: capitalize;
+    border: solid lightblue;
+}
